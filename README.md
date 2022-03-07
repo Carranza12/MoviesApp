@@ -29,7 +29,6 @@ clonas el repositorio, instalas todas las depencias de angular y finalmente ejec
 ![Vista de escritorio 1 ](https://github.com/Carranza12/MoviesApp/blob/master/src/assets/pc2.PNG)
 ![Vista de escritorio 1 ](https://github.com/Carranza12/MoviesApp/blob/master/src/assets/pc3.PNG)
 ![Vista de escritorio 1 ](https://github.com/Carranza12/MoviesApp/blob/master/src/assets/pc4.PNG)
-![Vista de escritorio 1 ](https://github.com/Carranza12/MoviesApp/blob/master/src/assets/pc1.PNG)
 
 ## Vista previa del proyecto en Movil 
 
@@ -38,7 +37,7 @@ clonas el repositorio, instalas todas las depencias de angular y finalmente ejec
 ![Vista de movil 3 ](https://github.com/Carranza12/MoviesApp/blob/master/src/assets/movil3.PNG)<br/>
 ![Vista de movil 4 ](https://github.com/Carranza12/MoviesApp/blob/master/src/assets/movil4.PNG)<br/>
 ![Vista de movil 5 ](https://github.com/Carranza12/MoviesApp/blob/master/src/assets/movil5.PNG)<br/>
-![Vista de movil 6 ](https://github.com/Carranza12/MoviesApp/blob/master/src/assets/movil16.PNG)<br/>
+![Vista de movil 6 ](https://github.com/Carranza12/MoviesApp/blob/master/src/assets/movil6.PNG)<br/>
 
 ## Prueba la demo!
 
