@@ -1,27 +1,39 @@
-# NetflixCloneAngular
+# Movies App with Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+Hola, esta aplicacion web basica ha sido creada con angular, consiste en una pagina donde puedes consultar detalles de todas las peliculas y series disponibles de la Api publica de OMDB API , es una aplicacion muy sencilla pero donde aprendi bastantes cosas sobre consumo de APIS y a maquetar usando Bootstrap 5.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Comenzando 🚀
+Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
+<br/>
 
-## Code scaffolding
+## Prerequisitos
+- Tener instalado node js 
+- Tener instalado angular CLI
+- Tener instalado Git
+<br/>
+Ejecuta los siguientes comandos para clonar el proyecto e implementarlo en tu entorno local
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Instrucciones
+```
+git clone https://github.com/Carranza12/MoviesApp.git
+npm install
+ng serve
+```
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+clonas el repositorio, instalas todas las depencias de angular y finalmente ejecutas el servidor que mostrara la app.
 
-## Running unit tests
+## Vista previa del proyecto en PC Desktop
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Vista previa del proyecto en Movil 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+![Vista de escritorio 1 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/movil1.PNG)<br/>
+![Vista de escritorio 2 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/movil2.PNG) <br/>
+![Vista de escritorio 3 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/movil3.PNG) <br/>
+![Vista de escritorio 4 ](https://github.com/Carranza12/QuizAppAngular/blob/develop/src/assets/screenshots/movil4.PNG)
 
-## Further help
+## Prueba la demo!
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Accede al siguiente Link: 
