@@ -1,0 +1,18 @@
+.title-navbar{
+    font-family: 'League Gothic', sans-serif;
+    font-size: 35px;
+    //letter-spacing: 2px;
+    text-transform: uppercase;
+    color: red;
+}
+:host {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+   }
+router-outlet{
+    padding: 0;
+    margin: 0;
+}
+  

@@ -1,0 +1,25 @@
+<div class="container">
+    <div class="card mb-3 mt-5"  >
+        <div class="row g-0">
+          <div class="col-md-4">
+            <img [src]="detail.Poster" class="img-fluid rounded-start m-3" alt="...">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h3 class="card-title"><strong>Title:</strong> {{detail.Title}}</h3>
+              <p class="card-text"><strong>Description:</strong> {{detail.Plot}}</p>
+              <p class="card-text"><strong>Year:</strong> {{detail.Year}}</p>
+              <p class="card-text"><strong>Rated:</strong> {{detail.Rated}}</p>
+              <p class="card-text"><strong>Runtime:</strong> {{detail.Runtime}}</p>
+              <p class="card-text"><strong>Genre</strong> {{detail.Genre}}</p>
+              <p class="card-text"><strong>Language:</strong> {{detail.Language}}</p>
+              <p class="card-text"><strong>Type:</strong> {{detail.Type}}</p>
+              <p class="card-text"><small class="text-muted"> {{detail.Released}}</small></p>
+            </div>
+          </div>
+        </div>
+        <button class="btn btn-primary w-25" routerLink="/buscar">back</button>
+      </div>
+    
+</div>
+<router-outlet></router-outlet>
